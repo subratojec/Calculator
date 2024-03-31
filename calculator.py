@@ -1,10 +1,9 @@
 from tkinter import *
-# import parser
 
 root = Tk()
 root.title(u"Calculator")
 
-#get the user input and place it in the textfield 
+#get the user input and place it in the text field 
 i = 0
 def get_variables(num):
     global i 
